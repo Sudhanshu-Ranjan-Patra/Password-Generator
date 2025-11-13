@@ -5,7 +5,7 @@
     box-sizing: border-box;   
 }
 body{
-    background: #02316f;
+    background: #02316ff7;
     /* background:#333; */
     color: #fff;
 }
@@ -21,7 +21,7 @@ body{
     margin-top: 50px;
     margin-bottom: 30px;
     background: #fff;
-    color: #727272;
+    color: #727272f9;
     align-items: center;
     justify-content: space-between;
     padding: 25px 20px;
